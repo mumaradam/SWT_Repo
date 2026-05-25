@@ -15,7 +15,7 @@
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>--%>
     <%--<webopt:bundlereference runat="server" path="~/Content/css" />--%>
-      <!-- Favicons -->
+      <!-- Favicons -->  
     <link href="assets/img/icon/Seiha_World_Travel_abb.ico" rel="icon">
     <link href="assets/img/icon/Seiha_World_Travel_abb.ico" rel="apple-touch-icon">
 
