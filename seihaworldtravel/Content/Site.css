@@ -1,0 +1,184 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input[type="text"],
+input[type="password"] {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+    .body-content {
+        padding: 0;
+    }
+}
+
+/* Mega Menu */
+li.custom-mega {
+    position: static !important;
+}
+
+.custom-mega .dropdown-menu {
+    position: absolute !important;
+    width: 900px !important; /* Forces the menu to be wide enough for 3 columns */
+    max-width: 95vw !important; /* Prevents it from overflowing on smaller laptop screens */
+    left: 50% !important;
+    right: auto !important;
+    transform: translateX(-50%) !important; /* Perfectly centers the wide menu */
+    top: 100% !important;
+    margin-top: 0 !important;
+    padding: 30px 40px !important;
+    border-radius: 0 0 8px 8px !important;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.15) !important;
+    border: none !important;
+}
+
+.custom-mega .column-title {
+    display: block;
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #333;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #eaeaea;
+}
+
+.custom-mega ul.sub-menu {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin: 0;
+}
+
+    .custom-mega ul.sub-menu li {
+        margin-bottom: 8px;
+    }
+
+    .custom-mega ul.sub-menu a {
+        display: block;
+        color: #555;
+        text-decoration: none;
+        transition: all 0.2s ease;
+        white-space: normal;
+        font-size: 0.95rem;
+    }
+
+        .custom-mega ul.sub-menu a:hover {
+            color: #0d6efd;
+            padding-left: 6px;
+        }
+
+.rate-inclusions-container {
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-title {
+    background-color: #f8f9fa;
+    padding: 10px 15px;
+    border-left: 5px solid #007bff;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.tour-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+}
+
+.tour-table th, .tour-table td {
+    padding: 12px;
+    vertical-align: top;
+    border: 1px solid #dee2e6;
+}
+
+.inclusions-cell {
+    background-color: #ffffff;
+    font-size: 0.95rem;
+}
+
+    .inclusions-cell ul {
+        margin-bottom: 15px;
+        padding-left: 20px;
+    }
+
+.note-box {
+    background-color: #fff3cd;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ffeeba;
+    color: #856404;
+}
+
+/* --- Global Tour Gallery: Vignette Reveal --- */
+.gallery-item-wrapper {
+    position: relative;
+    width: 100%;
+    height: 400px; 
+    overflow: hidden;
+    background: #000;
+    border-radius: 8px;
+}
+
+    .gallery-item-wrapper img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important; 
+        transition: all 0.5s ease;
+    }
+
+    /* Dims the image slightly on hover to help text contrast */
+    .gallery-item-wrapper:hover img {
+        opacity: 0.7;
+        transform: scale(1.05);
+    }
+
+.hover-title {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white !important;
+    font-weight: 700;
+    font-size: 1.8rem;
+    text-align: center;
+    padding: 30px;
+    text-transform: uppercase;
+    /* Soft vignette shadow exactly behind the text */
+    background: radial-gradient(circle, rgba(0,0,0,0.6) 0%, transparent 70%);
+    /* Reveal Animation */
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    pointer-events: none;
+    z-index: 2;
+}
+
+.gallery-item-wrapper:hover .hover-title {
+    opacity: 1;
+}
+
+/* Ensure the Bootstrap carousel-item doesn't override the height  */
+.carousel-item {
+    height: 400px !important;
+}
