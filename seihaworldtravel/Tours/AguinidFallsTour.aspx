@@ -32,6 +32,7 @@
                                     </tr>
                                 </thead>
                                 <tbody class="fw-bold">
+
                                     <tr><td>1</td><td>PHP 10,500</td><td>PHP 9,200</td></tr>
                                     <tr><td>2</td><td>PHP 7,200</td><td>PHP 6,100</td></tr>
                                     <tr><td>3</td><td>PHP 5,900</td><td>PHP 4,900</td></tr>
