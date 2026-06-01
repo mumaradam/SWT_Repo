@@ -1,4 +1,4 @@
-﻿<%@ Page Title="About Us | Seiha World Travel" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="seihaworldtravel.About" %>
+﻿<%@ Page Title="About Us -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="seihaworldtravel.About" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <!-- Page Title -->

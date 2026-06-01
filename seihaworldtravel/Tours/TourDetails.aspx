@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Private Twin City Tour" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TourDetails.aspx.cs" Inherits="seihaworldtravel.Tours.TourDetails" %>
+﻿<%@ Page Title="Private Twin City Tour -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TourDetails.aspx.cs" Inherits="seihaworldtravel.Tours.TourDetails" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 

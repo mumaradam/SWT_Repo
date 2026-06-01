@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Cebu City with Simala Shrine" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="SimalaShrineTour.aspx.cs" Inherits="seihaworldtravel.Tours.SimalaShrineTour" %>
+﻿<%@ Page Title="Cebu City with Simala Shrine -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="SimalaShrineTour.aspx.cs" Inherits="seihaworldtravel.Tours.SimalaShrineTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/simalaheader.jpg');">

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Bantayan Island Day Tour" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="BantayanIslandTour.aspx.cs" Inherits="seihaworldtravel.Tours.BantayanIslandTour" %>
+﻿<%@ Page Title="Bantayan Island Day Tour -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="BantayanIslandTour.aspx.cs" Inherits="seihaworldtravel.Tours.BantayanIslandTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/bantayan_header.jpg');">

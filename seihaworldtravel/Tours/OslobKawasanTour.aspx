@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Oslob Whale Shark & Kawasan Falls" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="OslobKawasanTour.aspx.cs" Inherits="seihaworldtravel.Tours.OslobKawasanTour" %>
+﻿<%@ Page Title="Oslob Whale Shark & Kawasan Falls -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="OslobKawasanTour.aspx.cs" Inherits="seihaworldtravel.Tours.OslobKawasanTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/oslobkawasan_header.jpg');">

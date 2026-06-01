@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Cebu Tour Packages | Seiha World Travel" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CebuPackages.aspx.cs" Inherits="seihaworldtravel.CebuPackages" %>
+﻿<%@ Page Title="Cebu Tour Packages -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CebuPackages.aspx.cs" Inherits="seihaworldtravel.CebuPackages" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
      <!-- Page Title -->

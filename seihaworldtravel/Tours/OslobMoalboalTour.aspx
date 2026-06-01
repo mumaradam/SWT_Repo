@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Oslob Whale Shark & Moalboal" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="OslobMoalboalTour.aspx.cs" Inherits="seihaworldtravel.Tours.OslobMoalboalTour" %>
+﻿<%@ Page Title="Oslob Whale Shark & Moalboal -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="OslobMoalboalTour.aspx.cs" Inherits="seihaworldtravel.Tours.OslobMoalboalTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/moalboal_header.jpg');">

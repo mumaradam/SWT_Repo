@@ -1,4 +1,4 @@
-﻿<%@ Page Title="3 in 1 Water Adventure" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="WaterAdventure3in1.aspx.cs" Inherits="seihaworldtravel.Tours.WaterAdventure3in1" %>
+﻿<%@ Page Title="3 in 1 Water Adventure -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="WaterAdventure3in1.aspx.cs" Inherits="seihaworldtravel.Tours.WaterAdventure3in1" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/watersports_header.jpg');">

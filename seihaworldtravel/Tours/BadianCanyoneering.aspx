@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Badian Canyoneering Adventure" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="BadianCanyoneering.aspx.cs" Inherits="seihaworldtravel.Tours.BadianCanyoneering" %>
+﻿<%@ Page Title="Badian Canyoneering Adventure -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="BadianCanyoneering.aspx.cs" Inherits="seihaworldtravel.Tours.BadianCanyoneering" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/kawasan_header.jpg');">

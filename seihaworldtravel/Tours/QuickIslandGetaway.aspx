@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Quick Island Getaway" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="QuickIslandGetaway.aspx.cs" Inherits="seihaworldtravel.Tours.QuickIslandGetaway" %>
+﻿<%@ Page Title="Quick Island Getaway -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="QuickIslandGetaway.aspx.cs" Inherits="seihaworldtravel.Tours.QuickIslandGetaway" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/northern_islands_header.jpg');">

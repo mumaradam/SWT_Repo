@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Moalboal Day Tour" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MoalboalDayTour.aspx.cs" Inherits="seihaworldtravel.Tours.MoalboalDayTour" %>
+﻿<%@ Page Title="Moalboal Day Tour -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MoalboalDayTour.aspx.cs" Inherits="seihaworldtravel.Tours.MoalboalDayTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/moalboal_day_header.jpg');">

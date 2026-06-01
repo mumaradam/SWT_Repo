@@ -13,38 +13,14 @@
         <div class="container position-relative">
         <div class="row align-items-center">
             <div class="col-lg-7">
-            <div class="hero-text" data-aos="fade-up" data-aos-delay="100">
-                <h1 class="hero-title">Where Your Cebu Story Begins</h1>
-                <p class="hero-subtitle">Discover Cebu with SWT through thoughtfully curated tours featuring stunning beaches, island hopping adventures, and rich cultural heritage. Every journey is seamless, memorable, and worth the journey.</p>
-                <div class="hero-buttons">
-                <a href="#" class="btn btn-primary me-3">Start Exploring</a>
-                <a href="#" class="btn btn-outline">Browse Tours</a>
-                </div>
-            </div>
-            </div>
-
-            <div class="col-lg-5">
-            <div class="booking-form-wrapper" data-aos="fade-left" data-aos-delay="200">
-                <div class="booking-form">
-                <h3 class="form-title">Plan Your Adventure</h3>
-                <div class="">
-                    <div class="form-group mb-3">
-                        <label for="tour-type">Your Destination</label>
-                        <select name="tour_type" id="tour-type" class="form-select" required="">
-                            <option value="" selected disabled>Select your destination</option>
-                            <option value="City">City Tour</option>
-                            <option value="Uphill">Uphill Tour</option>
-                            <option value="CityUphill">City and Uphill</option>
-                            <option value="Moalboal">Moalboal</option>
-                            <option value="Oslob">Oslob</option>
-                            <option value="IslandHopping">Island Hopping</option>
-                        </select>
+                <div class="hero-text" data-aos="fade-up" data-aos-delay="100">
+                    <h1 class="hero-title">Where Your Cebu Story Begins</h1>
+                    <p class="hero-subtitle">Discover Cebu with SWT through thoughtfully curated tours featuring stunning beaches, island hopping adventures, and rich cultural heritage. Every journey is seamless, memorable, and worth the journey.</p>
+                    <div class="hero-buttons">
+                    <a href="#" class="btn btn-primary me-3">Start Exploring</a>
+                    <a href="#" class="btn btn-outline">Browse Tours</a>
                     </div>
-
-                    <button type="submit" class="btn btn-primary w-100">Search</button>
                 </div>
-                </div>
-            </div>
             </div>
         </div>
         </div>
@@ -408,9 +384,32 @@
                                 <span>All 9 members of our group would like to thank you all for your diligence and kindness that made our trip very memorable. Even the whale sharks were friendly. </span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
-                            <img src="assets/img/Testimonial/Lissette.png" class="testimonial-img" alt="">
+                            <img src="assets/img/Testimonial/Lissette.png" class="testimonial-img" alt="" loading="lazy">
                             <h3>Lissette’ Group</h3>
                             <h4>(March 2025)</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <div class="tour-rating">
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                            </div>
+                            <p>
+                                <i class="bi bi-quote quote-icon-left"></i>
+                                <span>We swam with tropical fish in the clear blue ocean, and during the whale shark tour, the whale sharks even came close to us! We also tried their fresh coconut juice sold on the roadside. There were bunch of new experiences for us! </span>
+                                <br />
+                                <span>The pure white sand and crystal-clear water of Sumilon were absolutely amazing too!</span>
+                                <br />
+                                <span>It was a tour full of unforgettable and exciting moments.</span>
+                                <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/Testimonial/Yumi-Masumi.jpg" class="testimonial-img" alt="" loading="lazy" style="height: 90px;">
+                            <h3>Yumi and Masumi</h3>
+                            <h4>2026</h4>
                         </div>
                     </div><!-- End testimonial item -->
                 </div>

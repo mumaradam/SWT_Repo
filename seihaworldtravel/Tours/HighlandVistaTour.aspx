@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Highland Vista Tour" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="HighlandVistaTour.aspx.cs" Inherits="seihaworldtravel.Tours.HighlandVistaTour" %>
+﻿<%@ Page Title="Highland Vista Tour  -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="HighlandVistaTour.aspx.cs" Inherits="seihaworldtravel.Tours.HighlandVistaTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/siraoheader.jpg');">

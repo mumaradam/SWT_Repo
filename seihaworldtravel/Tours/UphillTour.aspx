@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Uphill Tour" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="UphillTour.aspx.cs" Inherits="seihaworldtravel.Tours.UphillTour" %>
+﻿<%@ Page Title="Uphill Tour -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="UphillTour.aspx.cs" Inherits="seihaworldtravel.Tours.UphillTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/uphillheader.jpg');">

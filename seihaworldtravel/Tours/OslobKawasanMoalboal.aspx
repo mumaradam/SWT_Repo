@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Oslob, Kawasan & Moalboal Triple Adventure" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="OslobKawasanMoalboal.aspx.cs" Inherits="seihaworldtravel.Tours.OslobKawasanMoalboal" %>
+﻿<%@ Page Title="Oslob, Kawasan & Moalboal Triple Adventure -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="OslobKawasanMoalboal.aspx.cs" Inherits="seihaworldtravel.Tours.OslobKawasanMoalboal" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/triple_adventure_header.jpg');">

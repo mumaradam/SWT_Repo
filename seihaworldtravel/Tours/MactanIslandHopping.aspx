@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Mactan Island Hopping Tour" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MactanIslandHopping.aspx.cs" Inherits="seihaworldtravel.Tours.MactanIslandHopping" %>
+﻿<%@ Page Title="Mactan Island Hopping Tour -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MactanIslandHopping.aspx.cs" Inherits="seihaworldtravel.Tours.MactanIslandHopping" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/mactan_hopping_header.jpg');">

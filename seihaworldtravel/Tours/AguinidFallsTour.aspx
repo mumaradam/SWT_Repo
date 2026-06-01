@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Aguinid Falls Adventure" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AguinidFallsTour.aspx.cs" Inherits="seihaworldtravel.Tours.AguinidFallsTour" %>
+﻿<%@ Page Title="Aguinid Falls Adventure -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AguinidFallsTour.aspx.cs" Inherits="seihaworldtravel.Tours.AguinidFallsTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/aguinid_header.jpg');">

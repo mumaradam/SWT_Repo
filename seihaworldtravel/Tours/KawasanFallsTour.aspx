@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Kawasan Waterfalls Adventure" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="KawasanFallsTour.aspx.cs" Inherits="seihaworldtravel.Tours.KawasanFallsTour" %>
+﻿<%@ Page Title="Kawasan Waterfalls Adventure -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="KawasanFallsTour.aspx.cs" Inherits="seihaworldtravel.Tours.KawasanFallsTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/kawasan_main_header.jpg');">

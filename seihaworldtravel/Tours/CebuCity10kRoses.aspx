@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Cebu City & 10k Roses" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CebuCity10kRoses.aspx.cs" Inherits="seihaworldtravel.Tours.CebuCity10kRoses" %>
+﻿<%@ Page Title="Cebu City & 10k Roses -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CebuCity10kRoses.aspx.cs" Inherits="seihaworldtravel.Tours.CebuCity10kRoses" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/10kRoses.png');">

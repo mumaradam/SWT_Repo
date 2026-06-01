@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Cebu Safari and Adventure Park" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CebuSafariTour.aspx.cs" Inherits="seihaworldtravel.Tours.CebuSafariTour" %>
+﻿<%@ Page Title="Cebu Safari and Adventure Park -" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CebuSafariTour.aspx.cs" Inherits="seihaworldtravel.Tours.CebuSafariTour" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="page-title dark-background" data-aos="fade" style="background-image: url('../../assets/dot/safari_header.jpg');">

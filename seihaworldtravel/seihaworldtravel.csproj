@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{8C957E6D-4AA1-43B1-A656-9647AD03B084}</ProjectGuid>
+    <ProjectGuid>{F104B457-AB96-497D-248C-5016B6EF0800}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -153,6 +153,14 @@
     <Content Include="Account\OpenAuthProviders.ascx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
+    <Content Include="assets\dot\10kRoses.png" />
+    <Content Include="assets\img\Testimonial\Yumi-Masumi.jpg" />
+    <Content Include="assets\img\Tour\CebuMonument.jpg" />
+    <Content Include="assets\img\Tour\Fort San Pedro.jpg" />
+    <Content Include="assets\img\Tour\LapuLapu.jpg" />
+    <Content Include="assets\img\Tour\MagellansCross.jpg" />
+    <Content Include="assets\img\Tour\SiraoGarden.jpg" />
+    <Content Include="assets\img\Tour\Yap San DIego.jpg" />
     <Content Include="Tours\AguinidFallsTour.aspx" />
     <Content Include="Tours\AnjoWorldTour.aspx" />
     <Content Include="assets\css\main.css" />

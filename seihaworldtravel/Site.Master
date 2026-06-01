@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - Seiha World Travel</title>
+    <title><%: Page.Title %> Seiha World Travel</title>
     <meta name="author" content="Mumar Adam Villariasa">
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -26,7 +26,7 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <!-- Vendor CSS Files -->
@@ -165,11 +165,11 @@
                       <img class="logo-wrapper" src="/../assets/img/logo/Seiha_World_Travel.png" alt="">
                   </a>
                 <div class="footer-contact pt-3">
-                    <p>18th Flr. IT Tower2,</p>
+                    <p>14th Flr. IT Tower2,</p>
                     <p>Lot 16, Block 2 Bohol Street and Arehbishop Reyes Avenue,</p>
                     <p>Cebu business park, Cebu City, Philippines 6000</p>
                   <p class="mt-3"><strong>Office Hours:</strong> <span>8:00 AM ～ 5:00 PM</span></p>
-                  <p><strong>Email:</strong> <a href="mailto:seihaworldtravel@gmail.com"><span>seihaworldtravel@gmail.com</span></a></p>
+                  <p><strong>Email:</strong> <a href="mailto:customer.swt@seiha.com"><span>customer.swt@seiha.com</span></a></p>
                 </div>
               </div>
 
