@@ -33,6 +33,8 @@
                                 </thead>
                                 <tbody class="fw-bold">
 
+
+
                                     <tr><td>1</td><td>PHP 10,500</td><td>PHP 9,200</td></tr>
                                     <tr><td>2</td><td>PHP 7,200</td><td>PHP 6,100</td></tr>
                                     <tr><td>3</td><td>PHP 5,900</td><td>PHP 4,900</td></tr>
@@ -47,6 +49,7 @@
                             <h5 class="fw-bold text-primary border-bottom pb-2">A. Aguinid Falls + Oslob Whale Shark</h5>
                             <p class="small mb-4"><strong>Highlights:</strong> <br />- Whale Shark Snorkeling (Oslob) <br />- 5-Level Waterfall Climbing at Aguinid Falls.<br />
                             <strong>Inclusions:</strong> Air-con Transpo, Guide, Whale Shark Fees/Gears, Aguinid Entrance, and Lunch with drinks.</p>
+
 
                             <h5 class="fw-bold text-primary border-bottom pb-2">B. Aguinid Falls + Fantasy Lodge (Kawa Bath)</h5>
                             <p class="small"><strong>Highlights:</strong> Aguinid Falls climbing plus a relaxing Day Trip at Fantasy Lodge with the famous Kawa Hot Bath experience.<br />

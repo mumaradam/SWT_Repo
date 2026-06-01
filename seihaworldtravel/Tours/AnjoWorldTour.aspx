@@ -14,6 +14,8 @@
         </div>
     </div>
 
+    <!-- Tour Details Testing -->
+
     <section class="section">
         <div class="container" data-aos="fade-up">
             <div class="row">
